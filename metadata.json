@@ -1,0 +1,6 @@
+{
+  "name": "CelPad™ Evaporative Cooling",
+  "description": "High-efficiency industrial evaporative cooling pads, cross-corrugated cellulose matrix solutions, and custom size sizing configurator by MAXIMAIR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
